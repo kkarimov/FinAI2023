@@ -2,8 +2,8 @@
 The code for [**_"An algorithm for computing Schubert varieties of best fit with applications"_**](https://www.frontiersin.org/articles/10.3389/frai.2023.1274830/full) published in [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence) in 2023
 =======
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kkarimov/FinAI2023/main/abstract_nodes_slides.png" alt="" style="width: 45%; margin: 0px; display: inline;">
-  <img src="https://raw.githubusercontent.com/kkarimov/FinAI2023/main/fig10.jpg" alt="" style="width: 45%; margin: 0px; display: inline;">
+  <img src="https://raw.githubusercontent.com/kkarimov/FinAI2023/main/abstract_nodes_slides.png" alt="" style="max-height: 300px; width: auto; margin: 0px; display: inline;">
+  <img src="https://raw.githubusercontent.com/kkarimov/FinAI2023/main/fig10.jpg" alt="" style="max-height: 300px; width: auto; margin: 0px; display: inline;">
 </p>
 
 
